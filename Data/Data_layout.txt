@@ -1,0 +1,16 @@
+Police Violence data Set:
+
+https://mappingpoliceviolence.org/
+
+Military Surplus 
+
+https://data.world/gene/military-surplus-2014-police
+
+https://data.world/cloblak/policebrutalityandmilsurplus/
+Each quarter, the U.S. Department of Defense's Defense Logistics Agency releases a spreadsheet of excess equipment transferred from the Department to law enforcement agencies throughout the country.
+
+This Excel workbook contains data across 53 sheets for U.S. states and territories, making it difficult to analyze data across the country. IRE has simply combined these into one CSV file, without doing any other cleaning to this data, to make it more accessible to reporters covering police departments in the United States.
+
+Any questions about the data should be directed to the Defense Logistics Agency as IRE is only providing the clean data as a public service.
+
+For more information and for additional datasets, including cancelled shipments, ammunition requests and federal acquisitions, visit: https://www.dla.mil/DispositionServices/Offers/Reutilization/LawEnforcement/PublicInformation/
